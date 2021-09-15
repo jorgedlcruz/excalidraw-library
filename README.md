@@ -1,8 +1,10 @@
 Excalidraw library with my most used icons
 ===================
 
+**New in v1.1, almost all Veeam shapes have been added**
+![alt tag](https://jorgedelacruz.uk/wp-content/uploads/2021/09/excalidraw-veeam-icons.jpg)
+Here you can find an example with some of the shapes:
 ![alt tag](https://jorgedelacruz.uk/wp-content/uploads/2021/06/excalidraw-001.jpg)
-
 This Excalidraw library is free to use, it is inspired on the Veeam icon library, and it has made by hand from scratch.
 
 For official Visio, or Draw.io Stencils, please visit - [https://www.veeam.com/vmware-esx-stencils.html](https://www.veeam.com/vmware-esx-stencils.html)
